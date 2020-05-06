@@ -1,6 +1,6 @@
 # python
 
-#### Instalando Python no Ubuntu.
+#### Instalando Python no Ubuntu
 
 ```
 sudo apt-get install python3
