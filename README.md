@@ -44,6 +44,6 @@ sudo apt-get install python3-venv
 python3 -m venv .venv
 ```
 
-1. -m venv importa o módulo do venv
-2. e .venv é o diretório onde desejamos criar esse ambiente
+1. ```-m venv``` importa o módulo do venv
+2. ```.venv``` é o diretório onde desejamos criar esse ambiente
 
