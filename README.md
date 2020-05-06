@@ -77,13 +77,13 @@ pip list
 
 #### No Python é comum listar as dependências do projeto em um arquivo ```requirements.txt```. Assim outros desenvolvedores conseguem instalar as mesmas bibliotecas que você.
 
-#### Listando todos os pacotes instalados no formato ````requirements.txt```
+#### Listando todos os pacotes instalados no formato ```requirements.txt```
 
 ```
 pip freeze
 ```
 
-#### Instalando pacotes a partir do ````requirements.txt```
+#### Instalando pacotes a partir do ```requirements.txt```
 
 ```
 pip install -r requirements.txt
