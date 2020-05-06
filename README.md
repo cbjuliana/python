@@ -1,6 +1,6 @@
 # python
 
-#### Instalação do Python no Ubuntu.
+#### Instalando Python no Ubuntu.
 
 ```
 sudo apt-get install python3
@@ -16,7 +16,7 @@ ou
 python3 --version
 ```
 
-#### Instalação do pip, gerenciador de pacotes
+#### Instalando pip, gerenciador de pacotes
 
 ```
 sudo apt-get install python3-pip
@@ -32,7 +32,7 @@ ou
 pip3 --version
 ```
 
-#### Instalando venv, gerenciador de ambiente virtual no Ubuntu
+#### Instalando venv, gerenciador de ambiente virtual 
 
 ```
 sudo apt-get install python3-venv
@@ -44,6 +44,6 @@ sudo apt-get install python3-venv
 python3 -m venv .venv
 ```
 
--m venv importa o módulo do venv
-e .venv é o diretório onde desejamos criar esse ambiente
+1. -m venv importa o módulo do venv
+2. e .venv é o diretório onde desejamos criar esse ambiente
 
