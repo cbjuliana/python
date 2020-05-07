@@ -33,11 +33,19 @@ sudo apt-get install python3-pip
 #### Verificando a instalação do pip
 
 ```
-pip --version
-```
-ou
-```
 pip3 --version
+```
+
+#### Instalando iPython
+
+```
+sudo pip3 install ipython
+```
+
+#### Abrindo shell iPython
+
+```
+ipython
 ```
 
 #### Instalando venv, gerenciador de ambiente virtual 
