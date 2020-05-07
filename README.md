@@ -9,11 +9,19 @@ sudo apt-get install python3
 #### Verificando a instalação
 
 ```
-python --version
-```
-ou
-```
 python3 --version
+```
+
+#### Abrindo o shell Python
+
+```
+python3
+```
+
+#### Saindo do shell Python
+
+```
+Ctrl+D
 ```
 
 #### Instalando pip, gerenciador de pacotes
